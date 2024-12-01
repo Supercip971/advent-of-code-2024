@@ -3,3 +3,5 @@
 
 Link: https://adventofcode.com/
 
+> note: I'll try to switch between languages (Go, Python, Lua, C, C++...) to keep things spicy.
+
