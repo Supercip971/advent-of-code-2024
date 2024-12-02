@@ -32,5 +32,5 @@ with open('input.txt') as f:
 
     for i in range(len(first_array)):
         summed += first_array[i] * abs(mapped_sum.get(first_array[i], 0))
-
+    
     print(f'final result: {summed}')
