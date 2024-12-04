@@ -1,3 +1,4 @@
-A template repo when trying to make side project
+# Day - 4 : C++
 
-If you want to remove every git file you can run `reset.sh`.
+To run you need to have make installed and a C++ toolchain.
+
