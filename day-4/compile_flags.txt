@@ -1,0 +1,9 @@
+-xc++
+-std=c++2a
+-Isrc
+-Werror
+-Wextra 
+-Wall 
+-Wundef 
+-Wshadow 	
+-Wvla
