@@ -1,3 +1,6 @@
-day-3/src/embed/ linguist-generated=true
-day-3/src/sal/ linguist-generated=true
-day-3/src/extdlib/ linguist-generated=true
+# Setting true because apparently github is busy at not doing thing intelligently 
+# Sometimes even big companies are retarded 
+
+day-3/src/embed/** linguist-vendored=true
+day-3/src/sal/** linguist-vendored=true
+day-3/src/extdlib/** linguist-vendored=true
